@@ -1,0 +1,18 @@
+{
+  "[javascript]": {
+    "editor.tabSize": 2,        // JavaScript 使用 2 个空格
+    "editor.insertSpaces": true // 使用空格而不是 Tab
+  },
+  "[python]": {
+    "editor.tabSize": 4,        // Python 使用 4 个空格
+    "editor.insertSpaces": true
+  },
+  "[html]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false // HTML 使用 Tab 而不是空格
+  },
+  "[vue]": {
+    "editor.tabSize": 2,        // Vue 文件使用 2 个空格
+    "editor.insertSpaces": true // 使用空格而不是 Tab
+  }
+}
