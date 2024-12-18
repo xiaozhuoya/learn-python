@@ -1,2 +1,2 @@
 # learn-python
-python learns from 0 to 1
+Python learns from 0 to 1
